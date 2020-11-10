@@ -9,3 +9,5 @@ Semoga bisa bermanfaat, bagi yang ingin mempelajari :
     Web programming, terutama native Javascript
     Metode SAW (Simple Additive Weighting) untuk Sistem Pendukung Keputusan (SPK) / Decission Support System (DSS)
     Database operation, terutama query dengan MySql.
+    
+www.irwansyah.id
